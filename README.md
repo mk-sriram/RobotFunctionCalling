@@ -1,6 +1,6 @@
 # LLM-Powered Robotic Arm
 
-A simple project that uses a Large Language Model (LLM) with Gemini function calling to interpret natural language commands and stream output directly to control a robotic arm.
+A  5 axis robotic arm uses a Large Language Model (LLM) with Gemini function calling to interpret natural language commands and stream output directly to control a robotic arm.
 
 ## Updates
 
